@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "useTab": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "communityPluginSortOrder": "release"
+}
